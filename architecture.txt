@@ -1,0 +1,12 @@
+
+Restaurant Recommendation System Architecture
+
+User -> Mobile/Web App
+          |
+          v
+Recommendation Engine
+    |       |       |
+Preferences Ratings Location
+          |
+          v
+ Restaurant Database
